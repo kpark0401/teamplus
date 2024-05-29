@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97755944829",
+    "project_id": "aaskfj-4cb00",
+    "storage_bucket": "aaskfj-4cb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97755944829:android:789bb23d049b345d421e14",
+        "android_client_info": {
+          "package_name": "com.example.teamplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBpdD3iJ2Td3hmDvEtLXKFZyhl7vv53Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
