@@ -1,5 +1,8 @@
+import 'dart:math';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:teamplus/pages/memo.dart';
 
 class MemoHome extends StatefulWidget {
@@ -73,6 +76,10 @@ class _MemoHomeState extends State<MemoHome> {
                   memo.body,
                   overflow: TextOverflow.fade,
                 ),
+              ),
+              IconButton(
+                onPressed: () {},
+                icon: Icon(Icons.delete),
               ),
             ],
           ),
